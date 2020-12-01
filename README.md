@@ -32,7 +32,7 @@ I let 2 branches, one to setup using Tuist.io and another with the whole structu
 
 **Full Experience**
 
-- Branch: 
+- Branch: `feature/project-to-be-generated`
 
 Xcodeproj, Workspace... and Dependencies will be created local by script. 
 After you have cloned the project, run on terminal:
@@ -42,7 +42,7 @@ After you have cloned the project, run on terminal:
 
 **All Ready**
 
-- Branch: 
+- Branch: `feature/project-all-ready`
 
 The whole project is over there.
 
